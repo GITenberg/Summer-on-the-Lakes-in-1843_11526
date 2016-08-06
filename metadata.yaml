@@ -1,0 +1,34 @@
+_repo: Summer-on-the-Lakes-in-1843_11526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fuller, Margaret
+    aliases:
+    - Fuller, Sara Margarita
+    - Ossoli, Sara Margarita
+    - Fuller, S. Margaret (Sarah Margaret)
+    - Ossoli, Margaret Fuller
+    birthdate: 1810
+    deathdate: 1850
+    gutenberg_agent_id: '2829'
+    url: http://www.gutenberg.org/2009/agents/2829
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Fuller
+description: Contains pages of  Fuller's text interleaved with manipulated, photographic
+  images of Niagara Falls by Torgerson, hand-made paper, and translucent paper.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fuller, Margaret, 1810-1850 -- Travel -- Great Lakes Region (North America)'
+- !lcsh 'Northwest, Old -- Description and travel'
+- !lcsh 'Fuller, Margaret, 1810-1850 -- Travel -- Northwest, Old'
+- !lcsh 'Great Lakes Region (North America) -- Description and travel'
+- !lcc 'F516'
+- GITenberg
+title: Summer on the Lakes, in 1843
+url: http://www.gutenberg.org/ebooks/11526
