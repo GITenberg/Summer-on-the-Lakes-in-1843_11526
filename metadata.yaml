@@ -1,5 +1,8 @@
 _repo: Summer-on-the-Lakes-in-1843_11526
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fuller, Margaret
@@ -15,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Fuller
 description: Contains pages of  Fuller's text interleaved with manipulated, photographic
   images of Niagara Falls by Torgerson, hand-made paper, and translucent paper.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11526#Summer-on-the-Lakes-in-1843
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
